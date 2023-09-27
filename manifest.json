@@ -1,0 +1,9 @@
+{
+    "name": "US to Canadian Conversions",
+    "version": "1",
+    "manifest-version": 3,
+    "action":{
+        "default-popup": "index.html",
+        "default-title": "US->CA"
+    }
+}
