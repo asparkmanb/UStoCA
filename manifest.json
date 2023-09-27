@@ -1,9 +1,9 @@
 {
     "name": "US to Canadian Conversions",
     "version": "1",
-    "manifest-version": 3,
+    "manifest_version": 3,
     "action":{
-        "default-popup": "index.html",
-        "default-title": "US->CA"
+        "default_popup": "index.html",
+        "default_title": "US->CA"
     }
 }
